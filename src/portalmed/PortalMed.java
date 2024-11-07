@@ -6,7 +6,7 @@ package portalmed;
 
 /**
  *
- * @author filib
+ * @author metacodex
  */
 public class PortalMed {
 
