@@ -12,6 +12,7 @@ public class PortalMed {
     public static void main(String[] args) {
         main login = new main();
         login.login();
+        System.out.println();
     }
 
 }
