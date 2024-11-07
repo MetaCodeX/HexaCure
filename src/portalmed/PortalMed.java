@@ -13,6 +13,7 @@ public class PortalMed {
         main login = new main();
         login.login();
         System.out.println();
+        System.out.println("Polo polo mejor comediante Y aristo ptas besto juego");
     }
 
 }
