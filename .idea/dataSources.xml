@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="pacientes" uuid="88cf01dd-e66d-4b79-8665-ee31ac5cecdb">
+    <data-source source="LOCAL" name="PortalMed" uuid="09be928e-22ef-43f0-9a95-7c5680175953">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
-      <remarks>listadodepacientes</remarks>
+      <remarks>pacientes</remarks>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:pacientes.sqlite</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
