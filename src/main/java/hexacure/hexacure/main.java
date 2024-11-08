@@ -1,5 +1,4 @@
-
-package portalmed;
+package hexacure.hexacure;
 
 public class main {
     public void login() {

@@ -1,5 +1,4 @@
-package portalmed;
-
+package hexacure.hexacure;
 import java.sql.SQLOutput;
 
 public class datosPersonales{
